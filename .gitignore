@@ -1,0 +1,11 @@
+env
+.venv
+*.sublime-workspace
+*.pid
+*.pyc
+
+__pycache__
+cache/
+output/
+
+deployerconf.json
